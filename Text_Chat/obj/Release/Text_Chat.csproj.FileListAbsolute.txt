@@ -1,0 +1,14 @@
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Release\Text_Chat.exe
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Release\Text_Chat.pdb
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Release\AForge.dll
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Release\AForge.xml
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Release\Text_Chat.csprojAssemblyReference.cache
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Release\Text_Chat.Form1.resources
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Release\Text_Chat.Properties.Resources.resources
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Release\Text_Chat.csproj.GenerateResource.cache
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Release\Text_Chat.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Release\Text_Chat.csproj.CopyComplete
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Release\Text_Chat.exe
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Release\Text_Chat.pdb

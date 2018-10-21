@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: findnode, Configuration: Debug Any CPU ------
+1>CSC : error CS2001: Source file 'C:\Users\Hello\source\repos\findnode\findnode\ManagementScope.cs' could not be found.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

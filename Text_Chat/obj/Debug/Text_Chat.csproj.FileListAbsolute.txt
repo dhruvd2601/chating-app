@@ -1,0 +1,16 @@
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Debug\Text_Chat.exe
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Debug\Text_Chat.pdb
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Debug\Text_Chat.csprojAssemblyReference.cache
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Debug\Text_Chat.Form1.resources
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Debug\Text_Chat.Properties.Resources.resources
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Debug\Text_Chat.csproj.GenerateResource.cache
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Debug\Text_Chat.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Debug\Text_Chat.exe
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Debug\Text_Chat.pdb
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Debug\AForge.dll
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Debug\AForge.Video.dll
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Debug\AForge.xml
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\bin\Debug\AForge.Video.xml
+C:\Users\Hello\source\repos\Text_Chat\Text_Chat\obj\Debug\Text_Chat.csproj.CopyComplete
